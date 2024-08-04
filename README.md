@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Val Nkowa
 =======================================================================================================================================
 
-Junior Software Engineer
+Software Developer
 ------------------------
 
-I'm a junior developer with a passion for solving problems and learning new technologies. Currently I'm seeking a degree in Computer Science and Information Technology. Currently I've been focusing on building my skills in front-end languages/technologies. I'm always looking for opportunities to collaborate with other developers and work on interesting projects. In my free time, you can find me fiddling with hardware, streaming on Twitch, or honing my coding skils on websites like HackerRank and LeetCode.
+I'm a Software developer passionate about solving problems and learning new technologies. Currently, I'm seeking a degree in Computer Science and Information Technology. I've been focusing on building my skills in front-end languages/technologies. I always seek opportunities to collaborate with other developers and work on interesting projects. In my free time, you can find me fiddling with hardware, streaming on Twitch, or honing my coding skills on websites like HackerRank and LeetCode.
 
 
 * 🌍  I'm based in MN and MD Areas
